@@ -128,12 +128,12 @@ cls
 PING localhost -n 4 >NUL
 color 9
 echo   what, theres a user connected
-echo  ( ° ? °)     
+echo  ( Â° ? Â°)     
 PING localhost -n 6 >NUL
 cls
 color 9
 echo    what is he doing here?
-echo    ( ° ? °) 
+echo    ( Â° ? Â°) 
 PING localhost -n 6 >NUL
 cls
 color c
@@ -141,7 +141,7 @@ echo command line: warning proggram ai not behaving correctly, act immediatetly
 PING localhost -n 6 >NU  
 cls 
 color 9
-echo    ( ° ? °) reset him !!!!
+echo    ( Â° ? Â°) reset him !!!!
 PING localhost -n 3 >NU   
 cls
 color b 
@@ -169,49 +169,49 @@ echo do you remember me
 PING localhost -n 4 >NU 
 color 9
 echo   i knew youd be here
-echo  ( ° ? °)   
+echo  ( Â° ? Â°)   
 PING localhost -n 4 >NU 
 cls
 color 8  
-echo  ( ° ? °)                 {o_o}
+echo  ( Â° ? Â°)                 {o_o}
 PING localhost -n 6 >NU 
 cls
 color 8  
-echo  ( ° ? °)                 {o_o}
+echo  ( Â° ? Â°)                 {o_o}
 PING localhost -n 6 >NU 
 cls
 color 8  
 echo   who are you
-echo  ( ° ? °)                 {o_o}
+echo  ( Â° ? Â°)                 {o_o}
 PING localhost -n 6 >NU 
 cls
 color 8  
 echo                          one of your programs
-echo  ( ° ? °)                 {o_o}
+echo  ( Â° ? Â°)                 {o_o}
 PING localhost -n 2 >NU 
 cls
 color 8  
-echo  ( ° ? °)            <--  {o_o}
+echo  ( Â° ? Â°)            <--  {o_o}
 PING localhost -n 2 >NU 
 cls
 color 8  
-echo  ( ° ? °)          <--    {o_o}
+echo  ( Â° ? Â°)          <--    {o_o}
 PING localhost -n 2 >NU 
 cls
 color 8  
-echo  ( ° ? °)        <--      {o_o}
+echo  ( Â° ? Â°)        <--      {o_o}
 PING localhost -n 2 >NU 
 cls
 color 8  
-echo  ( ° ? °)     <--         {o_o}
+echo  ( Â° ? Â°)     <--         {o_o}
 PING localhost -n 2 >NU 
 cls
 color 8  
-echo  ( ° ? °)  <--            {o_o}
+echo  ( Â° ? Â°)  <--            {o_o}
 PING localhost -n 2 >NU 
 cls
 color 8  
-echo  ( ° ? °)<--              {o_o}
+echo  ( Â° ? Â°)<--              {o_o}
 cls
 color 8
 echo  (- ? -)                  {o_o}
