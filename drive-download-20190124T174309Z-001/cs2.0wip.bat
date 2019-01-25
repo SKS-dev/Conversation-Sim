@@ -2,7 +2,6 @@
 color b 
 title conversation simulater 
 cls
-
 color 9
 echo                                                  :////////////////////////:
 PING localhost -n 1 >NUL
