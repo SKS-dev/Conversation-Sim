@@ -3,14 +3,11 @@ color b
 title conversation simulater 
 cls
 color 9
-echo                                                  :////////////////////////:
+echo                                                 
 PING localhost -n 1 >NUL
 echo                                                  :////////////////////////:
 echo                                                 * /conversation simulater/ *
-PING localhost -n 1 >NUL
 echo                                                  :////////////////////////:
-echo                                                 * /conversation simulater/ *
-echo                                                  
 
 :choice
 set /P c=Are you sure you want to continue[Y/N]?
@@ -223,16 +220,3 @@ cls
 color 8
 echo  (- ? -)                  {o_o}
 pause
-
-
-
-
-
-
-  
-
-
-
-
-
-
